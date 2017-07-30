@@ -1,2 +1,3 @@
 # Hackerrank
 ## Algorithms
+## Data Structure
