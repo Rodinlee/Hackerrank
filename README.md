@@ -12,3 +12,17 @@
 
 
 ## Python
+
+### 1. Basic Data Types
+  - [x] Lists
+  - [x] Tuples
+  - [x] List Comprehensions
+  - [x] Find the Second Largest Number
+  - [ ] Nested Lists
+  - [ ] Finding the percentage
+  
+### 2. Strings
+  - [x] sWAP cASE
+  - [x] String Split and Join
+  - [ ] What's Your Name?
+  - [ ] Mutations
