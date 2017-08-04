@@ -26,3 +26,5 @@
   - [x] String Split and Join
   - [ ] What's Your Name?
   - [ ] Mutations
+
+### 3. Math
