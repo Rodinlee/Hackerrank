@@ -18,13 +18,13 @@
   - [x] Tuples
   - [x] List Comprehensions
   - [x] Find the Second Largest Number
-  - [ ] Nested Lists
+  - [x] Nested Lists
   - [ ] Finding the percentage
   
 ### 2. Strings
   - [x] sWAP cASE
   - [x] String Split and Join
-  - [ ] What's Your Name?
-  - [ ] Mutations
+  - [x] What's Your Name?
+  - [x] Mutations
 
 ### 3. Math
