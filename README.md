@@ -5,8 +5,8 @@
   - [x] Simple Arry Sum
   - [x] Compare the Triplets
   - [x] A Very Big Sum
-  - [ ] Diagonal Difference
-  - [ ] Plus Minus
+  - [x] Diagonal Difference
+  - [x] Plus Minus
 
 ## Data Structure
 
