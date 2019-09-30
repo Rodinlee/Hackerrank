@@ -2,11 +2,11 @@
 ## Algorithms
 
 ### 1. Warmup Challenges
-  - [x] Simple Arry Sum
-  - [x] Compare the Triplets
-  - [x] A Very Big Sum
-  - [x] Diagonal Difference
-  - [x] Plus Minus
+  - [ ] Simple Arry Sum
+  - [ ] Compare the Triplets
+  - [ ] A Very Big Sum
+  - [ ] Diagonal Difference
+  - [ ] Plus Minus
 
 ## Data Structure
 
@@ -14,17 +14,17 @@
 ## Python
 
 ### 1. Basic Data Types
-  - [x] Lists
-  - [x] Tuples
-  - [x] List Comprehensions
-  - [x] Find the Second Largest Number
-  - [x] Nested Lists
+  - [ ] Lists
+  - [ ] Tuples
+  - [ ] List Comprehensions
+  - [ ] Find the Second Largest Number
+  - [ ] Nested Lists
   - [ ] Finding the percentage
   
 ### 2. Strings
-  - [x] sWAP cASE
-  - [x] String Split and Join
-  - [x] What's Your Name?
-  - [x] Mutations
+  - [ ] sWAP cASE
+  - [ ] String Split and Join
+  - [ ] What's Your Name?
+  - [ ] Mutations
 
 ### 3. Math
